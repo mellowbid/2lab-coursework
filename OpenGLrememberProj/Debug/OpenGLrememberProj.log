@@ -1,0 +1,19 @@
+﻿  Render.cpp
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(133): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(135): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(164): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(200): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(218): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(277): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(279): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(302): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(319): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(372): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(374): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(502): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(504): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(505): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(726): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(727): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+c:\users\folivora\desktop\laba_2-master-my\openglrememberproj\render.cpp(728): warning C4838: преобразование из "double" в "GLfloat" требует сужающего преобразования
+  OpenGLrememberProj.vcxproj -> C:\Users\Folivora\Desktop\Laba_2-master-my\Debug\OpenGLrememberProj.exe
